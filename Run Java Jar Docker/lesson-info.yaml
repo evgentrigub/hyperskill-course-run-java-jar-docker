@@ -2,6 +2,6 @@ type: framework
 content:
   - Stage 1 Write a simple Java program
   - Stage 2 Create a Manifest File
-  - stage3
+  - Stage 3 Build an Executable JAR File
   - stage4
   - stage5
