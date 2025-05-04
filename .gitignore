@@ -2,6 +2,6 @@
 build
 util
 /Run Java Jar Docker/stage1/build/
-/Run Java Jar Docker/stage2/build/
+/Run Java Jar Docker/Stage 2 Create a Manifest File/build/
 /Run Java Jar Docker/stage1/build_dir/project/Main.class
 .idea

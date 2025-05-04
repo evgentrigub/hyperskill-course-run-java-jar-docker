@@ -5,6 +5,4 @@ summary: Learn how to build and run Java applications inside Docker containers.
 programming_language: Java
 content:
   - Run Java Jar Docker
-additional_files:
-  - name: README.MD
 yaml_version: 2
