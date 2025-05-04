@@ -1,0 +1,15 @@
+type: edu
+files:
+  - name: build_dir/MANIFEST.MF
+    visible: true
+  - name: build_dir/project/Main.class
+    visible: true
+    is_binary: true
+  - name: build_dir/app.jar
+    visible: true
+    is_binary: true
+  - name: test/ProjectTest.java
+    visible: false
+    propagatable: false
+  - name: Dockerfile
+    visible: true
