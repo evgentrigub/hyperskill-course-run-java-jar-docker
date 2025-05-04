@@ -11,8 +11,6 @@ files:
   - name: test/ProjectTest.java
     visible: false
     propagatable: false
-  - name: Dockerfile
-    visible: true
   - name: src/main/java/project/Main.java
     visible: true
   - name: src/main/resources/META-INF/MANIFEST.MF
