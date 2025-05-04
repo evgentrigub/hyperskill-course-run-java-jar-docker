@@ -5,3 +5,6 @@ files:
   - name: test/ProjectTest.java
     visible: false
     propagatable: false
+  - name: build_dir/project/Main.class
+    visible: true
+    is_binary: true
