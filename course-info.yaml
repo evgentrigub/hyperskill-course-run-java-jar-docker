@@ -1,0 +1,10 @@
+type: hyperskill
+title: Run Java Jar Docker
+language: English
+programming_language: Java
+content:
+  - Run Java Jar Docker
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+yaml_version: 2

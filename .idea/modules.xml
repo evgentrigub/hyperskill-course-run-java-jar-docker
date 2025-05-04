@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run_Java_Jar_Docker.iml" filepath="$PROJECT_DIR$/.idea/modules/Run_Java_Jar_Docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage1/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage1.iml" filepath="$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage1/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage1/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage1/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage1/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage1/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage2/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage2.iml" filepath="$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage2/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage2/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage2/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage2/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Run Java Jar Docker/stage2/Run_Java_Jar_Docker.Run_Java_Jar_Docker-stage2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Run_Java_Jar_Docker.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Run_Java_Jar_Docker.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Run_Java_Jar_Docker.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Run_Java_Jar_Docker.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Run_Java_Jar_Docker.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Run_Java_Jar_Docker.util.test.iml" />
+    </modules>
+  </component>
+</project>
