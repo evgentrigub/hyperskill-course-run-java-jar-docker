@@ -22,7 +22,7 @@ public class ProjectTest extends StageTest<Void> {
 
         File manifestFileInBuild = new File("build_dir/MANIFEST.MF");
         if (!manifestFileInBuild.exists()) {
-            return CheckResult.wrong("The 'MANIFEST.MF' file was not found in the 'build' directory.");
+            return CheckResult.wrong("The 'MANIFEST.MF' file was not found in the 'build_dir' directory.");
         }
 
         return CheckResult.correct();
