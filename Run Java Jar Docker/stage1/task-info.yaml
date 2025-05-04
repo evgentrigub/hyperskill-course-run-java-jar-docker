@@ -1,6 +1,6 @@
 type: edu
 files:
-  - name: src/project/Main.java
+  - name: src/main/java/project/Main.java
     visible: true
   - name: test/ProjectTest.java
     visible: false
