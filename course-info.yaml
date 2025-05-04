@@ -1,10 +1,8 @@
 type: hyperskill
 title: Run Java Jar Docker
 language: English
+summary: Learn how to build and run Java applications inside Docker containers.
 programming_language: Java
 content:
   - Run Java Jar Docker
-additional_files:
-  - name: build.gradle
-  - name: settings.gradle
 yaml_version: 2
