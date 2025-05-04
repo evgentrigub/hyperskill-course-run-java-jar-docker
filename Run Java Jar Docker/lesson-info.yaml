@@ -4,4 +4,4 @@ content:
   - Stage 2 Create a Manifest File
   - Stage 3 Build an Executable JAR File
   - Stage 4 Build a Docker Image
-  - stage5
+  - Stage 5 Run Docker Container
