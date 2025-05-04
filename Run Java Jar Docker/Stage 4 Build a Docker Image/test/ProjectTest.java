@@ -10,7 +10,7 @@ import java.nio.file.Files;
 
 public class ProjectTest extends StageTest<Void> {
     /**
-     * Checks files: project/Main.class, MANIFEST.MF, app.jar
+     * Checks if the Dockerfile exists and contains the necessary instructions.
      */
     @DynamicTest
     CheckResult test1() {
