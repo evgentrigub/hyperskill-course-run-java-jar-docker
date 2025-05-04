@@ -6,5 +6,3 @@ files:
   - name: build_dir/project/Main.class
     visible: true
     is_binary: true
-  - name: build_dir/MANIFEST.MF
-    visible: true

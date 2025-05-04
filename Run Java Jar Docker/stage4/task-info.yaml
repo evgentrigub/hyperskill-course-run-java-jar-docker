@@ -13,3 +13,7 @@ files:
     propagatable: false
   - name: Dockerfile
     visible: true
+  - name: src/main/java/project/Main.java
+    visible: true
+  - name: src/main/resources/META-INF/MANIFEST.MF
+    visible: true

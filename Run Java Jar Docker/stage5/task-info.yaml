@@ -13,3 +13,5 @@ files:
   - name: test/ProjectTest.java
     visible: false
     propagatable: false
+  - name: src/main/java/project/Main.java
+    visible: true
