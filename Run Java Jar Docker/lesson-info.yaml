@@ -3,5 +3,5 @@ content:
   - Stage 1 Write a simple Java program
   - Stage 2 Create a Manifest File
   - Stage 3 Build an Executable JAR File
-  - stage4
+  - Stage 4 Build a Docker Image
   - stage5
